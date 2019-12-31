@@ -1,6 +1,6 @@
-# ML_Docs
+# 机器学习相关的资料
 Machine Learning related study materials.
-机器相关的学习资料
+
 
 数学相关：
   1. 斯坦福cs229-概率总结_EN.pdf
