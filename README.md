@@ -1,5 +1,4 @@
 # 机器学习相关的资料
-Machine Learning related study materials.
 
 
 数学相关：
