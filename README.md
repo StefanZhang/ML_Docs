@@ -8,5 +8,14 @@
   4. 斯坦福cs229-线性代数总结_CN.pdf
 
 数据库相关：
-  1. SQL必知必会.pdf
+  1. SQL必知必会_CN.pdf
+
+大数据框架相关：
+	1. Advanced Analytics with Spark 2nd Edition_EN.pdf
+	2. Spark高级数据分析第2版_CN.pdf
+
+数据可视化相关：
+	1. Visualization Analysis and Design_EN.pdf
+
+
 
