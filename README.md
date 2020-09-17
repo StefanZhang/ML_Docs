@@ -6,6 +6,7 @@
   2. 斯坦福cs229-概率总结_CN.pdf
   3. 斯坦福cs229-线性代数总结_EN.pdf
   4. 斯坦福cs229-线性代数总结_CN.pdf
+  5. An Introduction to Statistical Learning_EN.pdf
 
 数据库相关：
   1. SQL必知必会_CN.pdf
