@@ -18,5 +18,11 @@
 数据可视化相关：
   1. Visualization Analysis and Design_EN.pdf
 
+Python相关：
+  1. Python核心编程.第3版_CN.pdf
+  2. Python编程快速上手—让繁琐工作自动化_CN.pdf
+  3. Python高性能编程_CN.pdf
 
-
+数据思维相关：
+  1. Designing Data Intensive Applications_EN.pdf
+  2. 数据密集型应用系统设计_CN.pdf
