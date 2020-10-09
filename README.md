@@ -26,3 +26,5 @@ Python相关：
 数据思维相关：
   1. Designing Data Intensive Applications_EN.pdf
   2. 数据密集型应用系统设计_CN.pdf
+  3. Collection DS takehome challenges_EN.pdf
+  4. Collection DS takehome challenges Data.zip
