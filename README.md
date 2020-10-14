@@ -26,3 +26,10 @@ Python相关：
 数据思维相关：
   1. Designing Data Intensive Applications_EN.pdf
   2. 数据密集型应用系统设计_CN.pdf
+  3. Collection DS takehome challenges_EN.pdf
+  4. Collection DS takehome challenges Data.zip
+
+机器学习相关:
+  1. 机器学习小抄_CN.pdf
+  2. Hands-On Machine Learning with Scikit-Learn and TensorFlow_EN.pdf
+  3. Machine Learning Yearning_CN.pdf
