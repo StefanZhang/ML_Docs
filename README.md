@@ -29,6 +29,7 @@ Python相关：
   2. 数据密集型应用系统设计_CN.pdf
   3. Collection DS takehome challenges_EN.pdf
   4. Collection DS takehome challenges Data.zip
+  5. 持续交付：发布可靠软件的系统方法_CN.pdf
 
 机器学习相关:
   1. 机器学习小抄_CN.pdf
