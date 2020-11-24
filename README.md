@@ -31,6 +31,7 @@ Python相关：
   3. Collection DS takehome challenges_EN.pdf
   4. Collection DS takehome challenges Data.zip
   5. 持续交付：发布可靠软件的系统方法_CN.pdf
+  6. data science interview question bank_EN.pdf
 
 机器学习相关:
   1. 机器学习小抄_CN.pdf
