@@ -17,6 +17,8 @@
   1. Advanced Analytics with Spark 2nd Edition_EN.pdf
   2. Spark高级数据分析第2版_CN.pdf
   3. Kafka权威指南_CN.pdf
+  4. Hadoop The Definitive Guide 4th Edition_EN.pdf
+  5. Hadoop in Action_EN.PDF
 
 数据可视化相关：
   1. Visualization Analysis and Design_EN.pdf
